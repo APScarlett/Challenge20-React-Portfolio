@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Spinner from './components/spinner'
 import NavBar from './components/navbar'
-import '../public/scss/bootstrap.scss'
+import './assets/scss/bootstrap.scss'
 
 function App() {
   const [count, setCount] = useState(0)
