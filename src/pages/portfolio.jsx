@@ -7,7 +7,7 @@ function PortFolio(){
         {projects.map(project=>{
             return <Card project={project}/>
         })}
-            <Card/>
+        
         </CardContainer>
 
     </>

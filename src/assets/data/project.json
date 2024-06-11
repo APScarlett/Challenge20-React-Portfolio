@@ -1,7 +1,7 @@
 [
     {
         "title":"Password Generator",
-        "image":"",
+        "image":"https://i.gyazo.com/ce3f9639d338215f3f1de9cf73f5528b.png",
         "liveLink":"https://apscarlett.github.io/Challenge3-Password-Generator/",
         "githubLink":"https://github.com/APScarlett/Challenge3-Password-Generator"
     },
@@ -12,27 +12,27 @@
         "githubLink":"https://github.com/APScarlett/Challenge-14-Techblog"
     },
     {
-        "title":"",
-        "image":"",
-        "liveLink":"",
-        "githubLink":""
+        "title":"Open Weather",
+        "image":"https://i.gyazo.com/489a572502e854fe3abadb6e4712e6c9.png",
+        "liveLink":"https://apscarlett.github.io/Challenge-6-Open-weather/",
+        "githubLink":"https://github.com/APScarlett/Challenge-6-Open-weather"
     },
     {
-        "title":"",
-        "image":"",
-        "liveLink":"",
-        "githubLink":""
+        "title":"Text Editor",
+        "image":"https://i.gyazo.com/8f08a8cf47014eab16c39d10ba5f5f3b.png",
+        "liveLink":"https://challenge19-pwa-9ol5.onrender.com/",
+        "githubLink":"https://github.com/APScarlett/challenge19-PWA"
     },
     {
-        "title":"",
-        "image":"",
-        "liveLink":"",
-        "githubLink":""
+        "title":"Note Taker",
+        "image":"https://i.gyazo.com/60fc2152274dab3ab6544dd0e9cb5842.png",
+        "liveLink":"https://notetaker-as-c32191d1ef17.herokuapp.com/",
+        "githubLink":"https://github.com/APScarlett/Challenge11-Note-Taker"
     },
     {
-        "title":"",
-        "image":"",
-        "liveLink":"",
-        "githubLink":""
+        "title":"Horiseon Marketing Challenge",
+        "image":"https://i.gyazo.com/620552eeff91f4cd35d4bb7adb7bbefa.jpg",
+        "liveLink":"https://apscarlett.github.io/Horiseon-Challenge-01/",
+        "githubLink":"https://github.com/APScarlett/Horiseon-Challenge-01"
     }
 ]
