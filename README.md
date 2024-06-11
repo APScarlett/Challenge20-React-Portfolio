@@ -1,5 +1,5 @@
 # Challenge 20 React Portfolio
-
+[![Image from Gyazo](https://i.gyazo.com/fa3f45c8a1147913271dfdf52572bc12.png)](https://gyazo.com/fa3f45c8a1147913271dfdf52572bc12)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
  ## Description
