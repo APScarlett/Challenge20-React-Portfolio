@@ -4,34 +4,36 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import NavBar from './components/navbar'
 import Home from './pages/home'
-import PortFolio from './pages/portfolio'
+import Portfolio from './pages/portfolio'
 import About from './pages/about'
+import Contact from './pages/contact'
+
 
 function App() {
   const [count, setCount] = useState(0)
-  const [currentPage, setCurrentPage] = useState('Home');
 
-  // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
+  
+  const [currentPage, setCurrentPage] = useState('Home');
   const renderPage = () => {
     if (currentPage === 'Home') {
-      return <Home />;
+      return <Home/>;
     }
     if (currentPage === 'About') {
-      return <About />;
+      return <About handlePageChange={handlePageChange}/>;
     }
     if (currentPage === 'Portfolio') {
-      return <Portfolio />;
+      return <Portfolio/>;
     }
-    return <Contact />;
+    return <Contact/>;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
     <>
-\
-      <NavBar currentPage={currentPage} handlePageChange={handlePageChange}/>
-      {renderPage()}
+     
+     <NavBar currentPage = {currentPage} handlePageChange = {handlePageChange}/>
+     {renderPage()}
     </>
   )
 }
